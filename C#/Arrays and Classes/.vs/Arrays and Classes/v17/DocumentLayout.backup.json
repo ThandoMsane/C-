@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Thando Msane\\projects\\GitHub\\C#\\Arrays and Classes\\",
+  "WorkspaceRootPath": "C:\\Users\\Thando Msane\\projects\\GitHub\\C-\\C#\\Arrays and Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{764FCD4A-958A-4275-88D2-3294FD6D593E}|Arrays and Classes\\Arrays and Classes.csproj|c:\\users\\thando msane\\projects\\github\\c#\\arrays and classes\\arrays and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{764FCD4A-958A-4275-88D2-3294FD6D593E}|Arrays and Classes\\Arrays and Classes.csproj|c:\\users\\thando msane\\projects\\github\\c-\\c#\\arrays and classes\\arrays and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{764FCD4A-958A-4275-88D2-3294FD6D593E}|Arrays and Classes\\Arrays and Classes.csproj|solutionrelative:arrays and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Thando Msane\\projects\\GitHub\\C#\\Arrays and Classes\\Arrays and Classes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thando Msane\\projects\\GitHub\\C-\\C#\\Arrays and Classes\\Arrays and Classes\\Program.cs",
               "RelativeDocumentMoniker": "Arrays and Classes\\Program.cs",
-              "ToolTip": "C:\\Users\\Thando Msane\\projects\\GitHub\\C#\\Arrays and Classes\\Arrays and Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\Thando Msane\\projects\\GitHub\\C-\\C#\\Arrays and Classes\\Arrays and Classes\\Program.cs",
               "RelativeToolTip": "Arrays and Classes\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwCEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:37:53.994Z",
               "EditorCaption": ""
