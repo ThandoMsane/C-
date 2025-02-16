@@ -106,6 +106,8 @@ namespace ConsoleApp2
             Console.WriteLine($"(7) The retirement deduction: {retirementDeduction}");
             Console.WriteLine($"(8) The net pay: {netPay}");
 
+            Console.ReadKey();
+
         }
 
     }

@@ -1,7 +1,0 @@
-C:\Users\Thando Msane\projects\GitHub\C#\Arrays and Classes\Arrays and Classes\bin\Debug\Arrays and Classes.exe.config
-C:\Users\Thando Msane\projects\GitHub\C#\Arrays and Classes\Arrays and Classes\bin\Debug\Arrays and Classes.exe
-C:\Users\Thando Msane\projects\GitHub\C#\Arrays and Classes\Arrays and Classes\bin\Debug\Arrays and Classes.pdb
-C:\Users\Thando Msane\projects\GitHub\C#\Arrays and Classes\Arrays and Classes\obj\Debug\Arrays and Classes.csproj.AssemblyReference.cache
-C:\Users\Thando Msane\projects\GitHub\C#\Arrays and Classes\Arrays and Classes\obj\Debug\Arrays and Classes.csproj.CoreCompileInputs.cache
-C:\Users\Thando Msane\projects\GitHub\C#\Arrays and Classes\Arrays and Classes\obj\Debug\Arrays and Classes.exe
-C:\Users\Thando Msane\projects\GitHub\C#\Arrays and Classes\Arrays and Classes\obj\Debug\Arrays and Classes.pdb
