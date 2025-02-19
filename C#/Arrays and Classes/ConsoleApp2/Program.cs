@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,6 +21,7 @@ namespace ConsoleApp2
             
             Each factory worker might work any number of hours per week; any hours 
             greater than 40 are paid at one and one-half times the usual rate. 
+            
             In addition, second and third shift worker can elect to participate in the retirement plan, for which 3% of the worker 
             Software gross pay is deducted from the pay checks. 
             
@@ -29,6 +31,7 @@ namespace ConsoleApp2
             (4) the regular pay, (5) overtime pay, (6) total of regular and overtime pay, 
             (7) the retirement deduction, if any, and (8) the net pay. Save project as TUT1_Question2.
             * **/
+
 
             int hoursWorked;
             int shiftNo;
@@ -107,7 +110,6 @@ namespace ConsoleApp2
             Console.WriteLine($"(8) The net pay: {netPay}");
 
             Console.ReadKey();
-
         }
 
     }
