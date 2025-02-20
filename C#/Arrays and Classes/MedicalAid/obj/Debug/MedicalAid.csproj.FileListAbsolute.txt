@@ -1,0 +1,7 @@
+C:\Users\Thando Msane\projects\GitHub\C-\C#\MedicalAid\MedicalAid\bin\Debug\MedicalAid.exe.config
+C:\Users\Thando Msane\projects\GitHub\C-\C#\MedicalAid\MedicalAid\bin\Debug\MedicalAid.exe
+C:\Users\Thando Msane\projects\GitHub\C-\C#\MedicalAid\MedicalAid\bin\Debug\MedicalAid.pdb
+C:\Users\Thando Msane\projects\GitHub\C-\C#\MedicalAid\MedicalAid\obj\Debug\MedicalAid.csproj.AssemblyReference.cache
+C:\Users\Thando Msane\projects\GitHub\C-\C#\MedicalAid\MedicalAid\obj\Debug\MedicalAid.csproj.CoreCompileInputs.cache
+C:\Users\Thando Msane\projects\GitHub\C-\C#\MedicalAid\MedicalAid\obj\Debug\MedicalAid.exe
+C:\Users\Thando Msane\projects\GitHub\C-\C#\MedicalAid\MedicalAid\obj\Debug\MedicalAid.pdb
