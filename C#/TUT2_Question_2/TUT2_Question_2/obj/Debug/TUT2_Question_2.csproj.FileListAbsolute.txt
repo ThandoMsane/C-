@@ -1,0 +1,7 @@
+C:\Users\Thando Msane\projects\GitHub\C-\C#\TUT2_Question_2\TUT2_Question_2\bin\Debug\TUT2_Question_2.exe.config
+C:\Users\Thando Msane\projects\GitHub\C-\C#\TUT2_Question_2\TUT2_Question_2\bin\Debug\TUT2_Question_2.exe
+C:\Users\Thando Msane\projects\GitHub\C-\C#\TUT2_Question_2\TUT2_Question_2\bin\Debug\TUT2_Question_2.pdb
+C:\Users\Thando Msane\projects\GitHub\C-\C#\TUT2_Question_2\TUT2_Question_2\obj\Debug\TUT2_Question_2.csproj.AssemblyReference.cache
+C:\Users\Thando Msane\projects\GitHub\C-\C#\TUT2_Question_2\TUT2_Question_2\obj\Debug\TUT2_Question_2.csproj.CoreCompileInputs.cache
+C:\Users\Thando Msane\projects\GitHub\C-\C#\TUT2_Question_2\TUT2_Question_2\obj\Debug\TUT2_Question_2.exe
+C:\Users\Thando Msane\projects\GitHub\C-\C#\TUT2_Question_2\TUT2_Question_2\obj\Debug\TUT2_Question_2.pdb
